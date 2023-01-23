@@ -63,7 +63,7 @@ A very good bot that you can use in whatsapp.
 2. Update [settings.js]()
 3. Uplode session.json file
 4. Make acount on [railway](https://railway.app?referralCode=jDDNQq)
-5. Connect Your Repository to Railway
+5.[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/iOeL1v?referralCode=JfBkak)
 6. [Deploy On Railway Watch Video]()
 # 
 # 
